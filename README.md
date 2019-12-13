@@ -1,3 +1,3 @@
 # HoloTuberApplication
-Simple Volumetric Video capture &amp; AR visualizer. YouTube and OBS studio is necessary to broadcast RGB-D images.
-For now, only AR visualizer for ARCore is avairable here.
+Simple Volumetric Video capture &amp; AR visualizer. 3D image is reconstructed from RGB-D images wihch are broadcasted via YouTube.
+For now, only AR visualizer for ARCore and Aryzon(ARCore) are avairable here.

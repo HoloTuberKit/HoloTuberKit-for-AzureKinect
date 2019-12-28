@@ -21,8 +21,8 @@ YouTube: https://www.youtube.com/  <br>
   <b>AzureKinectCapture.zip</b> or <b>AzureKinectCapture_MidResolution(Unstable).zip</b><br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
   <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i>
-3) Connect a Azure Kinect with a PC.
-4) Launch <b>KinectCapture4PC.exe</b>.
+3) Connect a Azure Kinect with a PC.<br>
+4) Launch <b>KinectCapture4PC.exe</b>.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/01.jpg" alt="" width="400"><br>
 
 5) Open and login YouTube<br>
@@ -30,11 +30,13 @@ YouTube: https://www.youtube.com/  <br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/03.jpg" alt="" width="400"><br>
 7) Click <b>CREATE STREAM</b> button after finishing to input a name of the streaming and set some propertis.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/04.jpg" alt="" width="400"><br>
-8) Copy <b>Stream name</b> and <b>Stream URL</b><br>
+8) Copy <b>Stream name</b><br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/05.jpg" alt="" width="400"><br>
 
+9) Launch <b>OBS Studio</b>.<br>
+10) Open Settings<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/02.jpg" alt="" width="400"><br>
+11) Open <b>Stream</b> and select <b>YouTube</b>, <b>Primary TouTube ingest serever</b>.<br>
+12) Paste Streaming Key which you copied earlier.<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 
-5) Launch <b>OBS Studio</b>.<br>
-6) Open Settings<br>
-   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/02.jpg" alt="サンプル" width="400"><br>
-7) 

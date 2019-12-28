@@ -39,4 +39,7 @@ YouTube: https://www.youtube.com/  <br>
 11) Open <b>Stream</b> and select <b>YouTube</b>, <b>Primary TouTube ingest serever</b>.<br>
 12) Paste Streaming Key which you copied earlier.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
-
+13) Open <b>Video</b> to set resolution referring to following information.<br>
+   Base Resolution : 640x288 (or 960x432 for Middle resolution)<br>
+   Output Resolution : 640x288 (or 960x432 for Middle resolution)<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/07.jpg" alt="" width="400"><br>

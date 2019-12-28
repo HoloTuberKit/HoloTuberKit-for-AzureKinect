@@ -11,7 +11,7 @@ Following version of hologram viewer application which recieve and visualize hol
 
 ## Hologram Capture
 This application captures RGB and Depth image from Azure Kinect and generates RGB-D merged image to send YouTube.<br>
-You can use normal version or middle resolution version. (Please note the middle resolution version is not stable so far)
-To broadcast hologram, OBS Studio and your own YouTube account are also necessary.
-OBS Studio: https://obsproject.com/ja/download
-YouTube: https://www.youtube.com/
+You can use normal version or middle resolution version. (Please note the middle resolution version is not stable so far)<br>
+To broadcast hologram, OBS Studio and your own YouTube account are also necessary.<br>
+OBS Studio: https://obsproject.com/ja/download  <br>
+YouTube: https://www.youtube.com/  <br>

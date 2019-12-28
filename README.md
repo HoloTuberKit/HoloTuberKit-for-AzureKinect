@@ -23,4 +23,18 @@ YouTube: https://www.youtube.com/  <br>
   <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i>
 3) Connect a Azure Kinect with a PC.
 4) Launch <b>KinectCapture4PC.exe</b>.
-<img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/01.jpg" alt="サンプル" width="400">
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/01.jpg" alt="" width="400"><br>
+
+5) Open and login YouTube<br>
+6) Click <b>Go live</b> button <br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/03.jpg" alt="" width="400"><br>
+7) Click <b>CREATE STREAM</b> button after finishing to input a name of the streaming and set some propertis.<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/04.jpg" alt="" width="400"><br>
+8) Copy <b>Stream name</b> and <b>Stream URL</b><br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/05.jpg" alt="" width="400"><br>
+
+
+5) Launch <b>OBS Studio</b>.<br>
+6) Open Settings<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/02.jpg" alt="サンプル" width="400"><br>
+7) 

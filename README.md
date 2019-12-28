@@ -40,6 +40,15 @@ YouTube: https://www.youtube.com/  <br>
 12) Paste Streaming Key which you copied earlier.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 13) Open <b>Video</b> to set resolution referring to following information.<br>
-   Base Resolution : 640x288 (or 960x432 for Middle resolution)<br>
-   Output Resolution : 640x288 (or 960x432 for Middle resolution)<br>
+   <b>Base Resolution</b> : 640x288 (or 960x432 for Middle resolution)<br>
+   <b>Output Resolution</b> : 640x288 (or 960x432 for Middle resolution)<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/07.jpg" alt="" width="400"><br>
+14) Click Add button of Source area placed lower area.<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/08.jpg" alt="" width="400"><br>
+15) Click <b>Window Capture</b>.<br>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx16) Click OK.<br>
+17) Select <b>[KinectCapture4PC.exe]: Viwer</b> from Window.<br>
+18) Clik OK.<br>
+    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/10.jpg" alt="" width="400"><br>
+19) Click <b>Start Streaming</b><br>xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ <img src="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxhttps://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/10.jpg" alt="" width="400"><br>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

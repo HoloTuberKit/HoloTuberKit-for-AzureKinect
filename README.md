@@ -17,6 +17,7 @@ OBS Studio: https://obsproject.com/ja/download  <br>
 YouTube: https://www.youtube.com/  <br>
 <br>
 # How to Live Streaming with Capture Application
+0) This application works with AzureKinect 1.3!
 1) Download and unzip either file shown below.<br>
   <b>AzureKinectCapture.zip</b> or <b>AzureKinectCapture_MidResolution(Unstable).zip</b><br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
@@ -40,8 +41,8 @@ YouTube: https://www.youtube.com/  <br>
 12) Paste Streaming Key which you copied earlier.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 13) Open <b>Video</b> to set resolution referring to following information.<br>
-   <b>Base Resolution</b> : 640x288 (or 960x432 for Middle resolution)<br>
-   <b>Output Resolution</b> : 640x288 (or 960x432 for Middle resolution)<br>
+   <b>Base Resolution</b> : 960x432<br>
+   <b>Output Resolution</b> : 960x432<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/07.jpg" alt="" width="400"><br>
 14) Click Add button of Source area placed lower area.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/08.jpg" alt="" width="400"><br>

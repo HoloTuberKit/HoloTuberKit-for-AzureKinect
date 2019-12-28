@@ -16,7 +16,7 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 OBS Studio: https://obsproject.com/ja/download  <br>
 YouTube: https://www.youtube.com/  <br>
 
-#How to Live Streaming with Capture Application
+# How to Live Streaming with Capture Application
 1) Download and unzip either file shown below.<br>
   <b>AzureKinectCapture.zip</b> or <b>AzureKinectCapture_MidResolution(Unstable).zip</b><br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>

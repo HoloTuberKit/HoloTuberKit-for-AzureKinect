@@ -1,7 +1,7 @@
 # HoloTuber Application
 Simple Volumetric Video capture &amp; AR visualizer. 3D image is reconstructed from RGB-D images wihch are broadcasted via YouTube.<br>
 [![](https://img.youtube.com/vi/IeaHt6bBw1o/0.jpg)](https://www.youtube.com/watch?v=IeaHt6bBw1o)
-
+<br>
 # Files Included
 ## Hologram Viewer
 Following version of hologram viewer application which recieve and visualize hologram are avairable on Android devices.<br>
@@ -15,7 +15,7 @@ You can use normal version or middle resolution version. (Please note the middle
 To broadcast hologram, OBS Studio and your own YouTube account are also necessary.<br>
 OBS Studio: https://obsproject.com/ja/download  <br>
 YouTube: https://www.youtube.com/  <br>
-
+<br>
 # How to Live Streaming with Capture Application
 1) Download and unzip either file shown below.<br>
   <b>AzureKinectCapture.zip</b> or <b>AzureKinectCapture_MidResolution(Unstable).zip</b><br>

@@ -23,4 +23,4 @@ YouTube: https://www.youtube.com/  <br>
   <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i>
 3) Connect a Azure Kinect with a PC.
 4) Launch <b>KinectCapture4PC.exe</b>.
-![](https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/01.jpg "")
+<img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/01.jpg" alt="サンプル" width="400">

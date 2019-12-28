@@ -4,7 +4,7 @@ This is a simple volumetric video capture &amp; AR visualization kit. Real-time 
 <br>
 # Files Included
 ## Hologram Viewer
-Following version of hologram viewer application which recieve and visualize hologram are avairable on Android devices.<br>
+Following version of hologram viewer application are avairable on Android devices.<br>
 ・ARCore <br>
 ・Vuforia<br>
 ・Aryzon<br>

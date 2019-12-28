@@ -51,4 +51,5 @@ YouTube: https://www.youtube.com/  <br>
 18) Clik OK.<br>
     <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/10.jpg" alt="" width="400"><br>
 19) Click <b>Start Streaming</b><br>
- <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/10.jpg" alt="" width="400"><br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/11.jpg" alt="" width="400"><br>
+20) Back to YouTube Live and click <b>Go Live</b> afater aroud 1min.

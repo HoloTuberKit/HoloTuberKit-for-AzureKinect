@@ -15,3 +15,11 @@ You can use normal version or middle resolution version. (Please note the middle
 To broadcast hologram, OBS Studio and your own YouTube account are also necessary.<br>
 OBS Studio: https://obsproject.com/ja/download  <br>
 YouTube: https://www.youtube.com/  <br>
+
+#How to Live Streaming with Capture Application
+1) Download and unzip either file shown below.<br>
+  <b>AzureKinectCapture.zip</b> or <b>AzureKinectCapture_MidResolution(Unstable).zip</b><br>
+2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
+  <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i>
+3) Connect a Azure Kinect with a PC.
+4) Launch <b>KinectCapture4PC.exe</b>.

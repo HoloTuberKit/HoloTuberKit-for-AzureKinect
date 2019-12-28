@@ -18,8 +18,8 @@ YouTube: https://www.youtube.com/  <br>
 <br>
 # How to Live Streaming with Capture Application
 0) This application works with AzureKinect 1.3!
-1) Download and unzip either file shown below.<br>
-  <b>AzureKinectCapture.zip</b> or <b>AzureKinectCapture_MidResolution(Unstable).zip</b><br>
+1) Download and unzip  <b>AzureKinectCapture.zip</b> 
+ <br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
   <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i>
 3) Connect a Azure Kinect with a PC.<br>

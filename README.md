@@ -1,5 +1,5 @@
 # HoloTuber Application
-Simple Volumetric Video capture &amp; AR visualizer. 3D image is reconstructed from RGB-D images wihch are broadcasted via YouTube.<br>
+This is a simple volumetric video capture &amp; AR visualization kit. Real-time 3D image is reconstructed from RGB-D images wihch are broadcasted via YouTube.<br>
 [![](https://img.youtube.com/vi/IeaHt6bBw1o/0.jpg)](https://www.youtube.com/watch?v=IeaHt6bBw1o)
 <br>
 # Files Included
@@ -17,7 +17,7 @@ OBS Studio: https://obsproject.com/ja/download  <br>
 YouTube: https://www.youtube.com/  <br>
 <br>
 # How to Live Streaming with Capture Application
-0) This application works with AzureKinect 1.3!<br>
+0) This application works with <b>AzureKinect 1.3!</b><br>
 1) Download and unzip  <b>AzureKinectCapture.zip</b> <br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
   <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i>

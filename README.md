@@ -17,6 +17,7 @@ OBS Studio: https://obsproject.com/ja/download  <br>
 YouTube: https://www.youtube.com/  <br>
 <br>
 # How to Live Streaming with Capture Application
+## Sending Hologram (PC -> YouTube)
 0) This application works with <b>AzureKinect 1.3!</b><br>
 1) Download and unzip  <b>AzureKinectCapture.zip</b> <br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
@@ -52,4 +53,6 @@ YouTube: https://www.youtube.com/  <br>
     <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/10.jpg" alt="" width="400"><br>
 19) Click <b>Start Streaming</b><br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/11.jpg" alt="" width="400"><br>
-20) Back to YouTube Live and click <b>Go Live</b> afater aroud 1min.
+20) Back to YouTube Live and click <b>Go Live</b> afater aroud 1min.<br>
+
+## Receiving Hologram(YouTube -> Smartphone)

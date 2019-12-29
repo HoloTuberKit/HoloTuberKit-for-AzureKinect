@@ -18,7 +18,7 @@ YouTube: https://www.youtube.com/  <br>
 <br>
 # How to Live Streaming with Capture Application
 ## Sending Hologram (PC -> YouTube)
-0) Set display scale to 100% for display setting of Windows.<br>
+0) Set display scale to 100% in display setting of Windows.<br>
 1) Download and unzip  <b>AzureKinectCapture.zip</b> <br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
   <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i><br>

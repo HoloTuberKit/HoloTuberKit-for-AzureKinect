@@ -61,6 +61,6 @@ YouTube: https://www.youtube.com/  <br>
 1) Check the URL of the Streaming.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/12.jpg" alt="" width="400"><br>
 2) Launch application on your smartphone.<br>
-3) Tap input text field and input URL of your YouTube live.
+3) Tap input text field and input URL of your YouTube live.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/13.jpg" alt="" width="400"><br>
 4) Tap Connect button.

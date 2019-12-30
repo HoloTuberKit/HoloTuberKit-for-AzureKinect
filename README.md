@@ -68,6 +68,6 @@ YouTube: https://www.youtube.com/  <br>
  # Give Me Your Feedback
 I'm glad if you'll give me feedback, or tag me when you share the video of your experience with this application.<br>
 <b>Contact Me</b><br>
-Twitter: @Tks_Yoshinaga (https://twitter.com/Tks_Yoshinaga)
-LinkedIn: Takashi Yoshinaga (https://www.linkedin.com/in/tks-yoshinaga/?locale=en_US)
-
+Twitter: @Tks_Yoshinaga (https://twitter.com/Tks_Yoshinaga)<br>
+LinkedIn: Takashi Yoshinaga (https://www.linkedin.com/in/tks-yoshinaga/?locale=en_US)<br>
+<br>

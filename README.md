@@ -64,3 +64,6 @@ YouTube: https://www.youtube.com/  <br>
 3) Tap input text field and input URL of your YouTube live.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/13.jpg" alt="" width="400"><br>
 4) Tap Connect button.
+
+ # Give Me Your Feedback
+I'm glad if you'll give me feedback, or tag me when you share the video of your experience with this application.

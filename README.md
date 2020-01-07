@@ -72,5 +72,5 @@ Twitter: @Tks_Yoshinaga (https://twitter.com/Tks_Yoshinaga)<br>
 LinkedIn: Takashi Yoshinaga (https://www.linkedin.com/in/tks-yoshinaga/?locale=en_US)<br>
 <br>
 # If you want to develop application...
-Please refer following material.
-<script async class="speakerdeck-embed" data-id="9654031e9bfd4e4fbaeeef4f75a00b47" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+Please refer following material.<br>
+https://speakerdeck.com/takashiyoshinaga/creating-holotuber-application-hologram-visualization-with-rgb-d-image-streaming-via-youtube

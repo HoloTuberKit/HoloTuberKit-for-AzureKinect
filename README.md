@@ -65,9 +65,12 @@ YouTube: https://www.youtube.com/  <br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/13.jpg" alt="" width="400"><br>
 4) Tap Connect button.
 
- # Give Me Your Feedback
+# Give Me Your Feedback
 I'm glad if you'll give me feedback, or tag me when you share the video of your experience on SNS or other web-media.<br><br>
 <b>Contact Me</b><br>
 Twitter: @Tks_Yoshinaga (https://twitter.com/Tks_Yoshinaga)<br>
 LinkedIn: Takashi Yoshinaga (https://www.linkedin.com/in/tks-yoshinaga/?locale=en_US)<br>
 <br>
+# If you want to develop application...
+Please refer following material.
+<script async class="speakerdeck-embed" data-id="9654031e9bfd4e4fbaeeef4f75a00b47" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>

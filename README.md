@@ -16,7 +16,7 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 OBS Studio: https://obsproject.com/ja/download  <br>
 YouTube: https://www.youtube.com/  <br>
 <br>
-# How to Live Streaming with Capture Application
+# How to Live Streaming with HoloTuber Kit
 ## Sending Hologram (PC -> YouTube)
 0) Set display scale to 100% in display setting of Windows.<br>
 1) Download and unzip  <b>AzureKinectCapture.zip</b> <br>

@@ -1,7 +1,12 @@
 # HoloTuber Kit
 This is a simple volumetric video capture &amp; AR visualization kit. Real-time 3D image is reconstructed from RGB-D images wihch are broadcasted via YouTube.<br>
+<br><br>
 [![](https://img.youtube.com/vi/IeaHt6bBw1o/0.jpg)](https://www.youtube.com/watch?v=IeaHt6bBw1o)
 <br>
+If you'd like to try HoloTuber Kit with Kinect V1. Please see following repository.<br>
+https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV1
+<br><br>
+
 # Files Included
 ## Hologram Viewer
 Following version of hologram viewer application are avairable on Android devices.<br>

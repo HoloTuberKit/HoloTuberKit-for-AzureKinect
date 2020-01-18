@@ -15,7 +15,7 @@ Following version of hologram viewer application are avairable on Android device
 ・Aryzon<br>
 
 ## Hologram Capture
-This application captures RGB and Depth image from Azure Kinect and generates RGB-D merged image to send YouTube.<br>
+This application captures RGB and Depth image from Azure Kinect and generates RGB-D conbined image.<br>
 To broadcast hologram, OBS Studio and your own YouTube account are also necessary.<br><br>
 <b>OBS Studio:</b> https://obsproject.com/download  <br>
 <b>YouTube:</b> https://www.youtube.com/  <br>

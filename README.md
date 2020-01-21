@@ -80,6 +80,3 @@ I'm glad if you'll give me feedback, or tag me when you share the video of your 
 Twitter: @Tks_Yoshinaga (https://twitter.com/Tks_Yoshinaga)<br>
 LinkedIn: Takashi Yoshinaga (https://www.linkedin.com/in/tks-yoshinaga/?locale=en_US)<br>
 <br>
-# If you want to develop application...
-Please refer following material.<br>
-https://speakerdeck.com/takashiyoshinaga/creating-holotuber-application-hologram-visualization-with-rgb-d-image-streaming-via-youtube

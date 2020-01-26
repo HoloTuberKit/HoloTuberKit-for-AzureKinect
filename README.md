@@ -3,8 +3,12 @@ This is a simple volumetric video capture &amp; AR visualization kit. Real-time 
 <br>
 [![](https://img.youtube.com/vi/IeaHt6bBw1o/0.jpg)](https://www.youtube.com/watch?v=IeaHt6bBw1o)
 <br><br>
-If you'd like to try HoloTuber Kit with Kinect V1. Please see following repository.<br>
+If you'd like to try HoloTuber Kit with other version of Kinect, please see following repositories.<br><br>
+<b>For Kinect v1: </b><br>
 https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV1
+<br>
+<b>For Kinect v2: </b><br>
+https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV2
 <br><br>
 
 # Files Included
@@ -76,6 +80,3 @@ I'm glad if you'll give me feedback, or tag me when you share the video of your 
 Twitter: @Tks_Yoshinaga (https://twitter.com/Tks_Yoshinaga)<br>
 LinkedIn: Takashi Yoshinaga (https://www.linkedin.com/in/tks-yoshinaga/?locale=en_US)<br>
 <br>
-# If you want to develop application...
-Please refer following material.<br>
-https://speakerdeck.com/takashiyoshinaga/creating-holotuber-application-hologram-visualization-with-rgb-d-image-streaming-via-youtube

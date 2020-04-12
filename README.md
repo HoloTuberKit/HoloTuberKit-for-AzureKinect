@@ -11,7 +11,9 @@ https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV1
 <b>For Kinect v2: </b><br>
 https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV2
 <br><br>
-
+You can try also WebRTC version of HoloTuber Kit from below.<br>
+https://github.com/TakashiYoshinaga/HoloTuberKit-WebRTC-for-AzureKinect
+<br><br>
 # Files Included
 ## Hologram Viewer
 Following version of hologram viewer application are avairable on Android devices.<br>

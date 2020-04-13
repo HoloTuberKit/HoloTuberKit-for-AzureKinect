@@ -77,6 +77,9 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/13.jpg" alt="" width="400"><br>
 4) Tap Connect button.
 
+# Tutorial to Create Hologram Viewer
+https://speakerdeck.com/takashiyoshinaga/creating-holotuber-kit-hologram-visualization-with-rgb-d-image-streaming-via-youtube
+<br><br>
 # Give Me Your Feedback
 I'm glad if you'll give me feedback, or tag me when you share the video of your experience on SNS or other web-media.<br><br>
 <b>Contact Me</b><br>

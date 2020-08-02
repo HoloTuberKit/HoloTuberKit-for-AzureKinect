@@ -32,8 +32,8 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 0) Set display scale to 100% in display setting of Windows.<br>
 1) Download and unzip  <b>AzureKinectCapture.zip</b> <br>
 2) Copy all files inclued in the directry of Azure Kinect SDK.<br>
-  <i>C:\Program Files\Azure Kinect SDK v1.3.0\sdk\windows-desktop\amd64\release\bin</i><br>
-  This application works with <b>AzureKinect 1.3!</b><br>
+  <i>C:\Program Files\Azure Kinect SDK v1.4.1\sdk\windows-desktop\amd64\release\bin</i><br>
+  This application works with <b>AzureKinect 1.4.1!</b><br>
 3) Connect a Azure Kinect with a PC.<br>
 4) Launch <b>KinectCapture4PC.exe</b>.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/01.jpg" alt="" width="400"><br>

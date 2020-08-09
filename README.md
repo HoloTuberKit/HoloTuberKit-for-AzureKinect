@@ -81,7 +81,7 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 https://speakerdeck.com/takashiyoshinaga/creating-holotuber-kit-hologram-visualization-with-rgb-d-image-streaming-via-youtube
 <br><br>
 # Give Me Your Feedback
-I'm glad if you'll give me feedback, or tag me when you share the video of your experience on SNS or other web-media.<br><br>
+I'm glad if you'll give me feedback, or tag me or use hash tag, #HoloTuberKit, when you share the video of your experience on SNS or other web-media.<br><br>
 <b>Contact Me</b><br>
 Twitter: @Tks_Yoshinaga (https://twitter.com/Tks_Yoshinaga)<br>
 LinkedIn: Takashi Yoshinaga (https://www.linkedin.com/in/tks-yoshinaga/?locale=en_US)<br>

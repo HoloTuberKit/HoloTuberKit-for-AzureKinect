@@ -18,8 +18,7 @@ https://github.com/TakashiYoshinaga/HoloTuberKit-WebRTC-for-AzureKinect
 ## Hologram Viewer
 Following version of hologram viewer application are avairable on Android devices.<br>
 ・ARCore <br>
-・Vuforia<br>
-・Aryzon<br>
+・Aryzon (ARCore is required)<br>
 
 ## Hologram Capture
 This application captures RGB and Depth image from Azure Kinect and generates RGB-D conbined image.<br>

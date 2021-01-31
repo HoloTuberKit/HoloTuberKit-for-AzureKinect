@@ -16,7 +16,7 @@ https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV2
 ## Hologram Viewer
 Following version of hologram viewer application are avairable on Android devices.<br>
 ・ARCore <br>
-・Aryzon (ARCore is required)<br>
+・nreal light<br>
 
 ## Hologram Capture
 This application captures RGB and Depth image from Azure Kinect and generates RGB-D conbined image.<br>
@@ -67,15 +67,19 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 
 
 ## Receiving Hologram(YouTube -> Smartphone)
-1) Check the URL of the Streaming.<br>
+1) Check the URL of the Streaming or Recorded Video.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/12.jpg" alt="" width="400"><br>
 2) Launch application on your smartphone.<br>
 3) Tap input text field and input URL of your YouTube live.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/13.jpg" alt="" width="400"><br>
 4) Tap Connect button.
 
-# Tutorial to Create Hologram Viewer
-https://speakerdeck.com/takashiyoshinaga/creating-holotuber-kit-hologram-visualization-with-rgb-d-image-streaming-via-youtube
+## Receiving Hologram(YouTube -> nreal light)
+1) Read QR code of YouTube Live or Recorded Video.<br>
+2) Click the button of controller of nreal light<br>
+<b>example</b> <br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/qr.png" alt="" width="400"><br>
+
 <br><br>
 # Give Me Your Feedback
 I'm glad if you'll give me feedback, or tag me or use hash tag, #HoloTuberKit, when you share the video of your experience on SNS or other web-media.<br><br>

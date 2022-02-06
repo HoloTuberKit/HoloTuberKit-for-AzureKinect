@@ -20,7 +20,10 @@ This application captures RGB and Depth image from Azure Kinect and generates RG
 To broadcast hologram, OBS Studio and your own YouTube account are also necessary.<br><br>
 <b>OBS Studio:</b> https://obsproject.com/download  <br>
 <b>YouTube:</b> https://www.youtube.com/  <br>
-<br>
+
+## DlownLoad Page
+https://github.com/HoloTuberKit/HoloTuberKit-for-AzureKinect/releases/tag/v.1.0.0
+<br><br>
 # How to Live Streaming with HoloTuber Kit
 ## Streaming Volumetric Video (PC -> YouTube)
 1) Set display scale to 100% in display setting of Windows.<br>

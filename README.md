@@ -36,10 +36,14 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/02.jpg" alt="" width="400"><br>
 8) Open <b>Stream</b> and select <b>YouTube</b>.<br>
 9) Click <b>Content Account(recommended)</b> button and connect to your YouTube accound.<br>
-12) Paste Streaming Key which you copied earlier.<br>
+10) Open <b>Video</b> to set resolution referring to following information.<br>
+   <b>Base Resolution</b> : 1280x576<br>
+   <b>Output Resolution</b> : 1280x576<br>
+
+
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 13) Open <b>Video</b> to set resolution referring to following information.<br>
-   <b>Base Resolution</b> : 960x432<br>
+   <b>Base Resolution</b> : 1280x576<br>
    <b>Output Resolution</b> : 960x432<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/07.jpg" alt="" width="400"><br>
 14) Click <b>OK</b> button.

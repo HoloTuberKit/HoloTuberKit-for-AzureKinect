@@ -65,11 +65,13 @@ If you want to use it please do following procedure instead of clicking <b>Start
 5) Upload recorded video to YouTube by using web browser.
 
 ## Receiving Volumetric Video(YouTube -> AR Devices)
-1) Check the URL of the Streaming or Recorded Video.<br>
+1) Open video in YouTube.
+2) Click Share button.
+3) Check the URL of the Streaming or Recorded Video.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/12.jpg" alt="" width="400"><br>
-2) Launch application on your device.<br>
-3) Input content ID shown after "https://youtu.be/"
-4) Tap Connect button.
+4) Launch viewer application on your device.<br>
+5) Input content ID shown after "https://youtu.be/"
+6) Tap Connect button.
 
 
 <br><br>

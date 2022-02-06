@@ -4,21 +4,18 @@ This is a simple volumetric video capture &amp; AR visualization kit. Real-time 
 [YouTube Video] <br>
 [![](https://img.youtube.com/vi/IeaHt6bBw1o/0.jpg)](https://www.youtube.com/watch?v=IeaHt6bBw1o)
 <br><br>
-If you'd like to try HoloTuber Kit with other version of Kinect, please see following repositories.<br><br>
-<b>For Kinect v1: </b><br>
-https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV1
-<br>
-<b>For Kinect v2: </b><br>
-https://github.com/TakashiYoshinaga/HoloTuberKit-for-KinectV2
+If you'd like to try HoloTuber Kit with WebRTC, please see following repository.<br>
+https://github.com/HoloTuberKit/HoloTuberKit-WebRTC-for-AzureKinect
 <br><br>
 
-# Files Included
-## Hologram Viewer
-Following version of hologram viewer application are avairable on Android devices.<br>
+# Applications
+## Viewer Applications
+Following version of hologram viewer application are avairable.<br>
 ・ARCore <br>
 ・nreal light<br>
+・HoloLens 2<br>
 
-## Hologram Capture
+## Capture Application
 This application captures RGB and Depth image from Azure Kinect and generates RGB-D conbined image.<br>
 To broadcast hologram, OBS Studio and your own YouTube account are also necessary.<br><br>
 <b>OBS Studio:</b> https://obsproject.com/download  <br>

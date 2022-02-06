@@ -46,14 +46,14 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 12) Click <b>Add</b> button of Source area placed lower area.<br>
 <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/05.jpg" alt="" width="400"><br>
 13) Click <b>Window Capture</b>.<br>
-17) Click OK.<br>
-18) Select <b>[KinectCapture4PC.exe]: Viwer</b> from Window dropdown enu.<br>
-19) Clik OK.<br>
+14) Click OK.<br>
+15) Select <b>[KinectCapture4PC.exe]: Viwer</b> from Window dropdown enu.<br>
+16) Clik OK.<br>
     <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/10.jpg" alt="" width="400"><br>
-20) Click <b>Start Streaming</b> button.<br>
+17) Click <b>Start Streaming</b> button.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/11.jpg" alt="" width="400"><br>
-21) Set information of streaming and click <b>Create broadcast and start streaming</b> button.<br>
-   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/11.jpg" alt="" width="400"><br>
+18) Set information of streaming and click <b>Create broadcast and start streaming</b> button.<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 
 
 ## Receiving Hologram(YouTube -> Smartphone)

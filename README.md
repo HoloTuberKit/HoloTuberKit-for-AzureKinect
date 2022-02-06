@@ -22,7 +22,7 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 <b>YouTube:</b> https://www.youtube.com/  <br>
 <br>
 # How to Live Streaming with HoloTuber Kit
-## Sending Hologram (PC -> YouTube)
+## Streaming Volumetric Video (PC -> YouTube)
 1) Set display scale to 100% in display setting of Windows.<br>
 2) Download and unzip  <b>KinectCaptureApp.zip</b> <br>
 3) Copy all files inclued in the directry of Azure Kinect SDK.<br>
@@ -55,6 +55,14 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 18) Set information of streaming and click <b>Create broadcast and start streaming</b> button.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 
+Note:<br>
+Viewer application can receive not only YouTube Live streaming but also pre-recorded RGB-D video.<br>
+If you want to use it please do following procedure instead of clicking <b>Start Streaming</b>.<br>
+1) Open Settings of OBS Studio.
+2) Click <b>Output</b> and select mp4 as recording format.
+3) Click OK.
+4) Click <b>Start Recording</b>. (Stop recording when recording is finished.)
+5) Upload recorded video to YouTube by using web browser.
 
 ## Receiving Hologram(YouTube -> Smartphone)
 1) Check the URL of the Streaming or Recorded Video.<br>

@@ -55,7 +55,7 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 18) Set information of streaming and click <b>Create broadcast and start streaming</b> button.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 
-Note:<br>
+<u>Note:</u><br>
 Viewer application can receive not only YouTube Live streaming but also pre-recorded RGB-D video.<br>
 If you want to use it please do following procedure instead of clicking <b>Start Streaming</b>.<br>
 1) Open Settings of OBS Studio.
@@ -64,19 +64,13 @@ If you want to use it please do following procedure instead of clicking <b>Start
 4) Click <b>Start Recording</b>. (Stop recording when recording is finished.)
 5) Upload recorded video to YouTube by using web browser.
 
-## Receiving Hologram(YouTube -> Smartphone)
+## Receiving Volumetric Video(YouTube -> AR Devices)
 1) Check the URL of the Streaming or Recorded Video.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/12.jpg" alt="" width="400"><br>
-2) Launch application on your smartphone.<br>
-3) Tap the input text field and input URL of your YouTube live.<br>
-   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/13.jpg" alt="" width="400"><br>
+2) Launch application on your device.<br>
+3) Input content ID shown after "https://youtu.be/"
 4) Tap Connect button.
 
-## Receiving Hologram(YouTube -> nreal light)
-1) Read QR code of YouTube Live or Recorded Video.<br>
-2) Click the button of controller of nreal light<br>
-<b>example</b> <br>
-   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/qr.png" alt="" width="400"><br>
 
 <br><br>
 # Give Me Your Feedback

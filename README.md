@@ -36,27 +36,24 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/02.jpg" alt="" width="400"><br>
 8) Open <b>Stream</b> and select <b>YouTube</b>.<br>
 9) Click <b>Content Account(recommended)</b> button and connect to your YouTube accound.<br>
+<img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/03.jpg" alt="" width="400"><br>
+
 10) Open <b>Video</b> to set resolution referring to following information.<br>
    <b>Base Resolution</b> : 1280x576<br>
    <b>Output Resolution</b> : 1280x576<br>
-
-
-   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
-13) Open <b>Video</b> to set resolution referring to following information.<br>
-   <b>Base Resolution</b> : 1280x576<br>
-   <b>Output Resolution</b> : 960x432<br>
-   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/07.jpg" alt="" width="400"><br>
-14) Click <b>OK</b> button.
-15) Click <b>Add</b> button of Source area placed lower area.<br>
-   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/08.jpg" alt="" width="400"><br>
-16) Click <b>Window Capture</b>.<br>
+<img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/04.jpg" alt="" width="400"><br>
+11) Click <b>OK</b> button.
+12) Click <b>Add</b> button of Source area placed lower area.<br>
+<img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/05.jpg" alt="" width="400"><br>
+13) Click <b>Window Capture</b>.<br>
 17) Click OK.<br>
-18) Select <b>[KinectCapture4PC.exe]: Viwer</b> from Window.<br>
+18) Select <b>[KinectCapture4PC.exe]: Viwer</b> from Window dropdown enu.<br>
 19) Clik OK.<br>
     <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/10.jpg" alt="" width="400"><br>
-20) Click <b>Start Streaming</b><br>
+20) Click <b>Start Streaming</b> button.<br>
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/11.jpg" alt="" width="400"><br>
-21) Back to YouTube Live and click <b>Go Live</b> afater aroud 1min.<br><br>
+21) Set information of streaming and click <b>Create broadcast and start streaming</b> button.<br>
+   <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/11.jpg" alt="" width="400"><br>
 
 
 ## Receiving Hologram(YouTube -> Smartphone)

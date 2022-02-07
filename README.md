@@ -14,6 +14,7 @@ Following version of hologram viewer application are avairable.<br>
 ・ARCore <br>
 ・nreal light<br>
 ・HoloLens 2<br>
+・Meta Quest<br>
 
 ## Capture Application
 This application captures RGB and Depth image from Azure Kinect and generates RGB-D conbined image.<br>

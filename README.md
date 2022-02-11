@@ -15,6 +15,8 @@ Following version of hologram viewer application are avairable.<br>
 ・nreal light<br>
 ・HoloLens 2<br>
 ・Meta Quest<br>
+・WindowsPC (DesktopAR with HoloSDK)<br>
+ *You need to install HoloSDK. https://www.holo-sdk.com
 
 ## Capture Application
 This application captures RGB and Depth image from Azure Kinect and generates RGB-D conbined image.<br>

@@ -63,7 +63,7 @@ https://github.com/HoloTuberKit/HoloTuberKit-for-AzureKinect/releases/tag/v.1.0.
    <img src="https://github.com/TakashiYoshinaga/HoloTuberApplication/blob/master/Images/06.jpg" alt="" width="400"><br>
 
 <u>Note:</u><br>
-Viewer application can receive not only YouTube Live streaming but also pre-recorded RGB-D video.<br>
+Viewer application can play not only YouTube Live streaming but also pre-recorded RGB-D video.<br>
 If you want to use this feature please do following procedure instead of clicking <b>Start Streaming</b>.<br>
 1) Open Settings of OBS Studio.
 2) Click <b>Output</b> and select mp4 as recording format.

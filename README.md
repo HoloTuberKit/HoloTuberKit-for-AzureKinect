@@ -11,10 +11,11 @@ https://github.com/HoloTuberKit/HoloTuberKit-WebRTC-for-AzureKinect
 # Applications
 ## Viewer Applications
 Following version of hologram viewer application are avairable.<br>
-・ARCore <br>
-・nreal light<br>
-・HoloLens 2<br>
+・nreal light <br>
+・ARCore<br>
 ・Meta Quest<br>
+*Android Phone and Quest must be developer mode.<br>
+・HoloLens 2<br>
 ・WindowsPC (DesktopAR with HoloSDK)<br>
  *You need to install HoloSDK. https://www.holo-sdk.com
 

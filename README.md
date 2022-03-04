@@ -26,7 +26,7 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 <b>YouTube:</b> https://www.youtube.com/  <br>
 
 ## Dlownload Page
-https://github.com/HoloTuberKit/HoloTuberKit-for-AzureKinect/releases/tag/v.1.0.0
+https://github.com/HoloTuberKit/HoloTuberKit-for-AzureKinect/releases/tag/v1.1.0
 <br><br>
 # How to Live Streaming with HoloTuber Kit
 ## Streaming Volumetric Video (PC -> YouTube)

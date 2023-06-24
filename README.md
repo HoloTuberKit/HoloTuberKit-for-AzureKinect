@@ -29,8 +29,7 @@ To broadcast hologram, OBS Studio and your own YouTube account are also necessar
 https://github.com/HoloTuberKit/HoloTuberKit-for-AzureKinect/releases/tag/v1.1.1
 <br>
 notice!:<br>
-The receiver application is currently not working. If you would like to try point cloud streaming, please use the real-time version below<br>
-https://github.com/HoloTuberKit/HoloTuberKit-RealTime
+
 <br><br>
 # How to Live Streaming with HoloTuber Kit
 ## Streaming Volumetric Video (PC -> YouTube)
